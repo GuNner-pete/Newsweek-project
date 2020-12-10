@@ -11,7 +11,7 @@
 -Bootstrap.
 
 ## Live Demo
-https://franklinben23.github.io/Project-3-Newsweek-clone/
+https://gunner-pete.github.io/Newsweek-project/
 
 ## Authors
 
