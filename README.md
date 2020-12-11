@@ -26,7 +26,7 @@ Slack:https://app.slack.com/client/T47CT8XPG/D01FMH26VR9/user_profile/U01DP875AP
 Franklin Benjamin De La Rosa
 
 Facebook: [Franklin Benjamin](https://www.facebook.com/profile.php?id=100005418017053).
-GitHub: @franklinben23
+GitHub: [@franklinben23](https://github.com/franklinben23)
 Twitter: @frankli2302
 LinkedIn: Franklin Benjamin
 
