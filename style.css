@@ -281,7 +281,6 @@ footer {
 }
 
 .button-div {
-  height: 0px;
   width: 100%;
   background-color: #f4f5f6;
 }
@@ -545,12 +544,11 @@ footer {
   left: 5%;
 }
 
-.subscribe-img2{
+.subscribe-img2 {
   position: absolute;
   top: 15%;
   left: 15%;
 }
-
 
 .languages {
   display: flex;
@@ -765,23 +763,22 @@ footer {
   }
 
   .subscribe-img {
-  position: relative;
-  min-width: 55%;
-  height: 100%;
+    position: relative;
+    min-width: 55%;
+    height: 100%;
 }
 
-.subscribe-img1 {
-  position: absolute;
-  top: 5%;
-  left: 5%;
-}
+  .subscribe-img1 {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+  }
 
-.subscribe-img2{
-  position: absolute;
-  top: 15%;
-  left: 15%;
-}
-
+  .subscribe-img2 {
+    position: absolute;
+    top: 15%;
+    left: 15%;
+  }
 
   .latest-section img {
     height: 250px;
