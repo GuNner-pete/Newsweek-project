@@ -20,7 +20,7 @@ Peter Mo Gerges
 
 Facebook:https://www.facebook.com/peter.mo.gerges/
 Twitter:https://twitter.com/MoonlighMr
-GitHup:https://github.com/GuNner-pete
+GitHup:[@GuNner-pete](https://github.com/GuNner-pete)
 Slack:https://app.slack.com/client/T47CT8XPG/D01FMH26VR9/user_profile/U01DP875AP5.
 
 Franklin Benjamin De La Rosa
