@@ -261,6 +261,8 @@ footer {
 
 .subscribe-section {
   background-color: #f4f5f6;
+  height: 100%;
+  max-height: 250px;
 }
 
 .misc-border {
@@ -552,6 +554,11 @@ footer {
     text-align: left;
   }
 
+  .smalls img {
+    width: 110px;
+    max-height: 110px;
+  }
+
   .medical {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -588,13 +595,15 @@ footer {
 
   .latest-section {
     display: flex;
-  }
+    padding: 0 0 0 10px;
+    height: 100%;
+    }
 
   .latest-section img {
     width: 50%;
     height: 100%;
     max-width: 300px;
-    padding: 10px;
+    padding-right: 10px;
   }
 
   .first-footer {
