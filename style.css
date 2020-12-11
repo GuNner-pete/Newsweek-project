@@ -100,24 +100,6 @@ footer p {
   text-align: center;
 }
 
-.subscribe-img {
-  position: relative;
-  min-width: 55%;
-  height: 100%;
-}
-
-.subscribe-img1 {
-  position: absolute;
-  top: 5%;
-  left: 5%;
-}
-
-.subscribe-img2{
-  position: absolute;
-  top: 15%;
-  left: 15%;
-}
-
 .back-red {
   display: flex;
   justify-content: space-between;
@@ -550,6 +532,26 @@ footer {
   font-size: 15px;
 }
 
+.subscribe-img {
+  position: relative;
+  min-width: 55%;
+  min-height: 250px;
+  height: 100%;
+}
+
+.subscribe-img1 {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+.subscribe-img2{
+  position: absolute;
+  top: 15%;
+  left: 15%;
+}
+
+
 .languages {
   display: flex;
   flex-wrap: wrap;
@@ -692,11 +694,11 @@ footer {
 
   .features-img {
     height: 350px;
-    max-height: 75%;
+    max-height: 100%;
   }
 
   .magazine-section {
-    height: 900px;
+    height: 970px;
   }
 
   .back-red {
@@ -761,6 +763,25 @@ footer {
   .editors-picks-story {
     width: 25%;
   }
+
+  .subscribe-img {
+  position: relative;
+  min-width: 55%;
+  height: 100%;
+}
+
+.subscribe-img1 {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+.subscribe-img2{
+  position: absolute;
+  top: 15%;
+  left: 15%;
+}
+
 
   .latest-section img {
     height: 250px;
